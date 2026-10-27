@@ -1,4 +1,4 @@
-# operations.py
+
 def add(number_1: float, number_2: float) -> float:
     """
     Add two numbers together.
